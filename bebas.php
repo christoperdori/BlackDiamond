@@ -25,15 +25,6 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <!--li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="login.php"><img src="IKONS/PNG/32/home.png" alt="home" height="15" width="15"> HOME</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="regis.php"> <img src="IKONS/PNG/32/pen_3.png" alt="registrasi" height="15" width="15"> Registrasi</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"> <img src="IKONS/PNG/32/notepad.png" alt="nilai" height="15" width="15"> Daftar Nilai</a>
-                    </li-->
                     <li class="nav-item">
                         <a class="nav-link" href="#"> <img src="IKONS/PNG/32/printer.png" alt="invoice" height="15" width="15"> <b>CETAK INVOICE</b></a>
                     </li>
@@ -71,7 +62,7 @@
         <center><b>SETELAH SELESAI</b>, pastikan anda melakukan <a href="login.php" class="alert-link">LOGOUT</a> untuk mengakhiri <b>PROSES REGISTRASI</b>. <u>Jika tidak maka pengambilan matakuliah anda <b>AKAN DIBATALKAN.!!</b></u></center>
     </div>
     <div class="alert alert-warning" role="alert">
-        Sisa sks yang dapat diambil 18
+        Sisa sks yang dapat diambil 15
     </div>
     <a href="regis.php" class="btn btn-outline-dark"><strong><b><h4><</h4></b></strong></a>
     <form class="row g-3 mt-1">

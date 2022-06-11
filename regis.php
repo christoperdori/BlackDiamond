@@ -25,15 +25,6 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <!--li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="login.php"><img src="IKONS/PNG/32/home.png" alt="home" height="15" width="15"> HOME</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="regis.php"> <img src="IKONS/PNG/32/pen_3.png" alt="registrasi" height="15" width="15"> Registrasi</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"> <img src="IKONS/PNG/32/notepad.png" alt="nilai" height="15" width="15"> Daftar Nilai</a>
-                    </li-->
                     <li class="nav-item">
                         <a class="nav-link" href="#" onclick="alert('Invoice Sedang di Download')"> <img src="IKONS/PNG/32/printer.png" alt="invoice" height="15" width="15"> <b>CETAK INVOICE</b></a>
                     </li>
