@@ -59,7 +59,7 @@
         <p>--GANJIL 2022/2023</p>
     </div>
     <div class="alert alert-danger" role="alert">
-        <center><b>SETELAH SELESAI</b>, pastikan anda melakukan <a href="login.php" class="alert-link">LOGOUT</a> untuk mengakhiri <b>PROSES REGISTRASI</b>. <u>Jika tidak maka pengambilan matakuliah anda <b>AKAN DIBATALKAN.!!</b></u></center>
+    <center><b>KETIKA ANDA SUDAH SELESAI</b>, pastikan anda melakukan <a href="login.php" class="alert-link">LOGOUT</a> untuk mengakhiri <b>PROSES REGISTRASI</b>. <u>Jika anda tidak melakukan tindakan tersebut, maka pengambilan matakuliah anda <b>TIDAK TERSIMPAN DAN DINYATAKAN BATAL!!</b></u></center>
     </div>
     <a href="4.php" class="btn btn-outline-dark"><strong><b><h4><</h4></b></strong></a>
     <table class="table table-striped bg-white mt-2">

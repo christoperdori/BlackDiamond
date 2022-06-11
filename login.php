@@ -26,7 +26,7 @@
         <div class="row mt-4 justify-content-evenly">
             <div class="col-3">
                 <div class="row">
-                    <div class="p-3 border bg-light"><strong>LOGIN MAHASISWA.</strong></div>
+                    <div class="p-3 border bg-light"><strong>LOGIN MAHASISWA</strong></div>
                     <div class="p-3 border bg-white">
                         <form class="mt-1" action="regis.php">
                             <div class="mb-4">
