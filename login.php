@@ -56,27 +56,27 @@
                             </tr>
                             <tr>
                                 <td>1</td>
-                                <td>Registrasi Matakuliah 2022</td>
+                                <td>Registrasi Matakuliah Angkatan 2022</td>
                                 <td>20-07-2022</td>
                             </tr>
                             <tr>
                                 <td>2</td>
-                                <td>Registrasi Matakuliah 2022</td>
+                                <td>Registrasi Matakuliah  Angkatan 2021</td>
                                 <td>20-07-2022</td>
                             </tr>
                             <tr>
                                 <td>3</td>
-                                <td>Registrasi Matakuliah 2022</td>
+                                <td>Registrasi Matakuliah  Angkatan 2020</td>
                                 <td>20-07-2022</td>
                             </tr>
                             <tr>
                                 <td>4</td>
-                                <td>Registrasi Matakuliah 2022</td>
+                                <td>Registrasi Matakuliah  Angkatan 2019</td>
                                 <td>20-07-2022</td>
                             </tr>
                             <tr>
                                 <td>5</td>
-                                <td>Registrasi Matakuliah 2022</td>
+                                <td>Registrasi Matakuliah  Angkatan 2018</td>
                                 <td>20-07-2022</td>
                             </tr>
                         </table>
